@@ -56,7 +56,6 @@ leapYear(){
 }
 leapYear
 
-
 #problem 4: Random coin flip
 
 coinFlip(){
